@@ -1,0 +1,1 @@
+Se debe modificar la clase CuentaBancaria para que sea abstracta , ademaslos metodos extraer y depositar deben volverse abstractos, tambien se debecrear una clase CuentaAhorro que herede de CuentaBancaria y se leagregue un atributo privado de tasa de interes, el cual tendra un valorestablecido de 0.001 y un metodo que nos calcule el interes.
